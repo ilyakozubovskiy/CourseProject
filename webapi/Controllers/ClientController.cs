@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
+using webapi.DAL;
 using webapi.Models;
 
 namespace webapi.Controllers;

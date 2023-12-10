@@ -1,6 +1,0 @@
-C:\Users\ilyak\source\repos\VueProject\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
-C:\Users\ilyak\source\repos\VueProject\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
-C:\Users\ilyak\Desktop\source\VueProject\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
-C:\Users\ilyak\Desktop\source\VueProject\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
-C:\Users\ikazubouski.AMETROSCARDS\source\repos\vueapp\obj\Debug\vueapp.esproj.SuggestedBindingRedirects.cache
-C:\Users\ikazubouski.AMETROSCARDS\source\repos\vueapp\obj\Debug\vueapp.esproj.CoreCompileInputs.cache
